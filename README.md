@@ -95,3 +95,14 @@ The tool outputs both overall scores and per-criterion feedback, including match
 - Paste transcript text in the textarea.
 - Click Score to see overall and per-criterion results.
 - Results displayed in a clean table with score and feedback.
+
+## Example Output
+    {
+      "overall_score": 82.5,
+      "word_count": 52,
+      "criteria": [
+        {"criterion_name": "Introduction", "score": 85, "feedback": "Length OK"},
+        {"criterion_name": "Age & Class", "score": 80, "feedback": "Too short"}
+      ]
+    }
+
