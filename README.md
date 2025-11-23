@@ -14,18 +14,11 @@ The tool outputs both overall scores and per-criterion feedback, including match
 
 ## Features
 
-  Input transcript via web UI (paste text).
-  
-  Compute overall score (0–100).
-  
-  Compute per-criterion score with detailed feedback:
-  
-    Matched keywords
-    
-    Semantic similarity (via embeddings)
-    
-    Word count suggestions
-  
-  Simple and responsive frontend.
-  
-  Can be run locally or deployed publicly.
+- Input transcript via web UI (paste text).
+- Compute overall score (0–100).
+- Compute per-criterion score with detailed feedback:
+  Matched keywords
+  Semantic similarity (via embeddings)
+  Word count suggestions
+- Simple and responsive frontend.
+- Can be run locally or deployed publicly.
