@@ -1,6 +1,6 @@
-#Nirmaan AI – Communication Scoring Tool
+# Nirmaan AI – Communication Scoring Tool
 
-##Project Overview
+## Project Overview
 
 This project implements an AI-based tool to analyse and score students’ spoken communication skills from transcript text. The primary use case is evaluating short self-introductions.
 The system computes rubric-based scores (0–100) and provides per-criterion feedback using a combination of:
@@ -10,3 +10,4 @@ The system computes rubric-based scores (0–100) and provides per-criterion fee
 3. Weighted aggregation: criterion weights from the provided rubric are applied to compute the final normalized score.
 
 The tool outputs both overall scores and per-criterion feedback, including matched keywords, semantic similarity, and length suggestions.
+
